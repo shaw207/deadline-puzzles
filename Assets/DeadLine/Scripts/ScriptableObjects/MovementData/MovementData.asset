@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e03cfb56a01d18a4c814fd13c66da10f, type: 3}
+  m_Name: MovementData
+  m_EditorClassIdentifier: Assembly-CSharp::DeadLine.MovementData
+  MaxWalkSpeed: 5
+  MaxAirSpeed: 3
+  MaxRunSpeed: 10.16
+  MaxCrouchSpeed: 3
+  MaxWalkSpeedWhilePushing: 3
+  ToCrouchingSpeed: 4
+  Acceleration: 10
+  Deceleration: 300
+  RunningAcceleration: 20
+  RunningDeceleration: 300
+  AirAcceleration: 3
+  AirDeceleration: 6
+  CrouchAcceleration: 6
+  CrouchDeceleration: 300
+  WhilePushingAcceleration: 3
+  WhilePushingDeceleration: 12
+  MaxJumpHeight: 3
+  TimeToApex: 0.5
+  Height: 1.8
+  CrouchHeight: 1.4
+  CharacterRadius: 0.14
+  SkinWidth: 0.05
+  FallGravityMultiply: 1.5
+  GroundedGravity: 2
+  MaxFallSpeed: 8.89
+  SphereCastRadius: 0.22
+  SphereDistance: 0.33
+  GroundLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  MaxStepHeight: 0.5
+  StepDetectionDistance: 0.5
+  StepClimbSpeed: 10
+  LadderClimbSpeed: 3
+  LadderClimbAcceleration: 10
+  LadderLateralRange: 1

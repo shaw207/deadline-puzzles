@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b28e9a06df1637868bf6b335db30db87, type: 3}
+  m_Name: OriginalSounds1
+  m_EditorClassIdentifier: Assembly-CSharp::DeadLine.SoundLibrary
+  sounds:
+  - name: MainMenu_Soundtrack
+    clip: {fileID: 8300000, guid: ef1feef94f01b3a4b9892c80606c6853, type: 3}
+    volume: 0.75
+    pitch: 1
+    loop: 1
+    randomizePitch: 0
+    pitchVariation: 0
+    source: {fileID: 0}
+  - name: DoorCloseCreak
+    clip: {fileID: 8300000, guid: 0e096716028b33e49b33318a52e7b8c8, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    randomizePitch: 0
+    pitchVariation: 0
+    source: {fileID: 0}
+  - name: DoorOpenCreak
+    clip: {fileID: 8300000, guid: 150a35a4c719cc94497acb4d6080d154, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    randomizePitch: 0
+    pitchVariation: 0
+    source: {fileID: 0}
+  - name: Level1_Soundtrack
+    clip: {fileID: 8300000, guid: 5d1217042bc39d345aba6a791aed8b33, type: 3}
+    volume: 0.75
+    pitch: 1
+    loop: 1
+    randomizePitch: 0
+    pitchVariation: 0
+    source: {fileID: 0}
+  - name: CharacterWalkConcrete1
+    clip: {fileID: 8300000, guid: 8909d5e79a3610949b63020b44a72e5e, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    randomizePitch: 1
+    pitchVariation: 0.418
+    source: {fileID: 0}

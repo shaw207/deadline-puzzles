@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b28e9a06df1637868bf6b335db30db87, type: 3}
+  m_Name: OriginalSounds5
+  m_EditorClassIdentifier: Assembly-CSharp::DeadLine.SoundLibrary
+  sounds:
+  - name: DoorCloseCreak
+    clip: {fileID: 8300000, guid: 0e096716028b33e49b33318a52e7b8c8, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    randomizePitch: 0
+    pitchVariation: 0
+    source: {fileID: 0}
+  - name: DoorOpenCreak
+    clip: {fileID: 8300000, guid: 150a35a4c719cc94497acb4d6080d154, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    randomizePitch: 0
+    pitchVariation: 0
+    source: {fileID: 0}
+  - name: AltarGlow
+    clip: {fileID: 8300000, guid: bac28f6c8f7d4b14ea27628e67806db9, type: 3}
+    volume: 0.2
+    pitch: 3
+    loop: 0
+    randomizePitch: 0
+    pitchVariation: 0
+    source: {fileID: 0}
+  - name: HoleBeingFilledWithWater
+    clip: {fileID: 8300000, guid: 35eb74189bb37714aa7ff41ceab69a1c, type: 3}
+    volume: 0.2
+    pitch: 3
+    loop: 0
+    randomizePitch: 0
+    pitchVariation: 0
+    source: {fileID: 0}
+  - name: MetalWaterDrain
+    clip: {fileID: 8300000, guid: 9b13d6abe23e52a48ad12bfeaafd3f1d, type: 3}
+    volume: 0.2
+    pitch: 3
+    loop: 0
+    randomizePitch: 0
+    pitchVariation: 0
+    source: {fileID: 0}
+  - name: WaterValveOff
+    clip: {fileID: 8300000, guid: 4145ed1ff7c67e342baf68a1a9430753, type: 3}
+    volume: 0.2
+    pitch: 3
+    loop: 0
+    randomizePitch: 0
+    pitchVariation: 0
+    source: {fileID: 0}
+  - name: WaterValveOn
+    clip: {fileID: 8300000, guid: 3d5ace609b3a9fd43b96f4bea5bf281a, type: 3}
+    volume: 0.2
+    pitch: 3
+    loop: 0
+    randomizePitch: 0
+    pitchVariation: 0
+    source: {fileID: 0}
+  - name: Level5_Soundtrack
+    clip: {fileID: 8300000, guid: 01cfa78a06aa5fd4c93a29304c633f17, type: 3}
+    volume: 0.75
+    pitch: 1
+    loop: 1
+    randomizePitch: 0
+    pitchVariation: 0
+    source: {fileID: 0}
+  - name: CharacterWalkConcrete1
+    clip: {fileID: 8300000, guid: 8909d5e79a3610949b63020b44a72e5e, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    randomizePitch: 1
+    pitchVariation: 0.418
+    source: {fileID: 0}
