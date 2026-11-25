@@ -5,7 +5,7 @@ Cuatro salas jugables de *DeadLine*. [Descargar para Windows](https://github.com
 Extrae el ZIP y abre `DeadLine-Original.exe`. Muévete con **WASD**, interactúa con **E** y cambia de sala con **F1–F4**. **Esc** cierra el juego.
 
 <details name="salas" open>
-<summary><strong>F1 · Suelo de memoria</strong> · 16 s</summary>
+<summary><strong>F1 · Suelo de memoria</strong></summary>
 
 Tras un paso en falso, pulsa el botón para ver la ruta completa. Repite los 16 pasos para abrir la puerta.
 
@@ -14,7 +14,7 @@ Tras un paso en falso, pulsa el botón para ver la ruta completa. Repite los 16 
 </details>
 
 <details name="salas">
-<summary><strong>F2 · Cajas flotantes</strong> · 8 s</summary>
+<summary><strong>F2 · Cajas flotantes</strong></summary>
 
 Empuja una caja en seco, pulsa **C** para volver al volante y usa **E** para elevar el agua.
 
@@ -23,7 +23,7 @@ Empuja una caja en seco, pulsa **C** para volver al volante y usa **E** para ele
 </details>
 
 <details name="salas">
-<summary><strong>F3 · Cinco cristales</strong> · 8 s</summary>
+<summary><strong>F3 · Cinco cristales</strong></summary>
 
 Recoge cada cristal con **E** y lánzalo con el botón izquierdo hacia el pedestal que acepta su número.
 
